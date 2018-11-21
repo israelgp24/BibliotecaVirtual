@@ -24,6 +24,7 @@ DJango
 Actions:
 ********
 .. code-block:: bash
+
     Usage:
-            environment               create environment with pyenv
-            install                   install dependences python by env
+        environment               create environment with pyenv
+        install                   install dependences python by env
