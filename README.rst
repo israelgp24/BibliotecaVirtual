@@ -8,7 +8,7 @@ PROMOCODE
 Requirements:
 *************
 
-- `Python 3.6.4`_
+- `Python 3.6.4`
 
 
 DJango
