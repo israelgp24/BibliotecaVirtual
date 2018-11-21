@@ -8,7 +8,7 @@ PROMOCODE
 Requirements:
 *************
 
-- `Python 3.6.4`
+- `Python 3.6.4`_
 
 
 DJango
@@ -28,4 +28,4 @@ Actions:
 
 
 .. dependences
-.. _Python 3.6.1: https://www.python.org/downloads/release/python-364
+.. _Python 3.6.4: https://www.python.org/downloads/release/python-364
