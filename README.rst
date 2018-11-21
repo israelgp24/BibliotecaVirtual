@@ -8,11 +8,8 @@ PROMOCODE
 Requirements:
 *************
 
-pyenv
+- `Python 3.6.4`_
 
-Python
- version=3.6.4
- $ pyenv install 3.6.4
 
 DJango
  version= 2.1.3
@@ -23,8 +20,11 @@ DJango
  
 Actions:
 ********
+
 .. code-block:: bash
 
-    Usage:
-        environment               create environment with pyenv
-        install                   install dependences python by env
+    $ pip install -r requirements.txt
+
+
+
+.. _Python 3.6.1: https://www.python.org/downloads/release/python-364
