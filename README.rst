@@ -10,13 +10,6 @@ Requirements:
 
 - `Python 3.6.4`_
 
-
-DJango
- version= 2.1.3
-
-.. code:: bash
-
- $ pip install django
  
 Actions:
 ********
