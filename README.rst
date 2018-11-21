@@ -1,6 +1,6 @@
 PROMOCODE
 #########
-
+|Wercker| |license|
 
 .. contents:: Table of Contents:
     :local:
