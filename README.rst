@@ -1,6 +1,6 @@
 PROMOCODE
 #########
-|Wercker| |license|
+
 
 .. contents:: Table of Contents:
     :local:
@@ -23,6 +23,6 @@ DJango
  
 Actions:
 ********
-Usage:
-        environment               create environment with pyenv
-        install                   install dependences python by env
+    Usage:
+            environment               create environment with pyenv
+            install                   install dependences python by env
