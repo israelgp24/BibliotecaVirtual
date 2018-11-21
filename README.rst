@@ -17,8 +17,12 @@ Python
 DJango
  version= 2.1.3
 
-
-
 .. code:: bash
 
  $ pip install django
+ 
+Actions:
+********
+Usage:
+        environment               create environment with pyenv
+        install                   install dependences python by env
